@@ -1,0 +1,1 @@
+drop measurement_seq;
